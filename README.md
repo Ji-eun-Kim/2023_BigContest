@@ -64,21 +64,21 @@
 <img width="366" alt="KakaoTalk_20231230_172456169" src="https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/3ba45d46-e5d3-4188-8a96-6d93bb6cacf4">
 
 [독주] 기존좌석 1층 / 좌석 재분할 후 1층
-![독주_기존](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/842681c5-0b0e-40be-ae0c-b4fbe87e3052)| ![독주_변경후](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/bb801521-2ad3-4925-82fe-733f5783deb7)
+<img width="1300" alt="기존좌석 1층" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/842681c5-0b0e-40be-ae0c-b4fbe87e3052">| ![독주_변경후](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/bb801521-2ad3-4925-82fe-733f5783deb7)
 ---|---|
 
 [독주] 기존좌석 2층 / 좌석 재분할 후 2층
-![독주_기존_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/98dca2f7-494d-44ec-b814-8eb985a9f71b)| ![독주_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/f1bf8597-ddab-452f-a485-b3e4611fab38)
+<img width="1500" alt="교향곡_기존_2층" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/98dca2f7-494d-44ec-b814-8eb985a9f71b">| ![독주_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/f1bf8597-ddab-452f-a485-b3e4611fab38)
 ---|---|
 
 -----
 
 [교향곡] 기존좌석 1층 / 좌석 재분할 후 1층
-![교향곡_기존_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/048e37f9-f5cb-485e-9e62-6ba1afd62797)| ![교향곡_변경후_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/4c34be1d-bda8-4f4a-b6cd-88ef35a58bc7) 
+<img width="1300" alt="기존좌석 교향곡 1층" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/048e37f9-f5cb-485e-9e62-6ba1afd62797">| ![교향곡_변경후_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/4c34be1d-bda8-4f4a-b6cd-88ef35a58bc7) 
 ---|---|
 
 [교향곡] 기존좌석 2층 / 좌석 재분할 후 2층
-![교향곡_기존_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/11fe315d-634a-4731-ad22-35547cb16824)| ![교향곡_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d5b56d6-07e9-4466-b95c-00ba43ed9db2)
+<img width="1500" alt="교향곡_기존_2층" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/11fe315d-634a-4731-ad22-35547cb16824">| ![교향곡_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d5b56d6-07e9-4466-b95c-00ba43ed9db2)
 ---|---|
 
 <br/>
@@ -94,17 +94,17 @@
 ## 6. 팀원 및 담당 역할
 <팀원>
 
-전공생 4명
+- 전공생 4명
 
 <br/>
 
 <담당 역할>
 
-팀장  
-탐색적 데이터 분석   
-Data Preprocessing  
-FINCH Method Clustering  
-Modeling 구현  
+- 팀장  
+- 탐색적 데이터 분석   
+- Data Preprocessing  
+- FINCH Method Clustering  
+- Modeling 구현  
 
 <br/>
 
