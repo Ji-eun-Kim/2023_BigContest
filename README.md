@@ -93,8 +93,24 @@
 
 <br/>
 
+## 6. 팀원 및 담당 역할
+<팀원>
 
-## 6. 자료  
+전공생 4명
+
+<br/>
+
+<담당 역할>
+
+팀장  
+탐색적 데이터 분석   
+Data Preprocessing  
+FINCH Method Clustering  
+Modeling 구현  
+
+<br/>
+
+## 7. 자료  
 https://www.bigcontest.or.kr/
 
 <img width="557" alt="11" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/5f87e0f4-72f7-4b85-935a-5d07ef394954">   
