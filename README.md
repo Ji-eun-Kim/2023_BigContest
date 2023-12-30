@@ -126,8 +126,7 @@ https://www.imaeil.com/page/view/2023121413152830691
 ![KakaoTalk_20231230_144717289](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d2635c7-ea99-4450-a265-9aab54ff659b) | ![KakaoTalk_20231230_145117752](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/d28cd795-e6a1-4910-9c52-e9ecdfea63c6)
 ---|---|
 
-<img width="1000" alt="11" src="https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/8700f799-0b4c-4793-b1b5-a1b702b74079"> | ![KakaoTalk_20231230_160411786](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/e83d79c2-394d-49d2-8c88-2a631c349244)  
----|---|
+
 
 <br/>
 
