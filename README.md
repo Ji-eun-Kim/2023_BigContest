@@ -74,11 +74,11 @@
 -----
 
 [교향곡] 기존좌석 1층 / 좌석 재분할 후 1층
-![교향곡_기존_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/048e37f9-f5cb-485e-9e62-6ba1afd62797)| ![교향곡_기존_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/11fe315d-634a-4731-ad22-35547cb16824)
+![교향곡_기존_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/048e37f9-f5cb-485e-9e62-6ba1afd62797)| ![교향곡_변경후_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/4c34be1d-bda8-4f4a-b6cd-88ef35a58bc7) 
 ---|---|
 
 [교향곡] 기존좌석 2층 / 좌석 재분할 후 2층
-![교향곡_변경후_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/4c34be1d-bda8-4f4a-b6cd-88ef35a58bc7) | ![교향곡_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d5b56d6-07e9-4466-b95c-00ba43ed9db2)
+![교향곡_기존_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/11fe315d-634a-4731-ad22-35547cb16824)| ![교향곡_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d5b56d6-07e9-4466-b95c-00ba43ed9db2)
 ---|---|
 
 <br/>
