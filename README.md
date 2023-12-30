@@ -61,32 +61,27 @@
 ![교향곡_변경후_1층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/4c34be1d-bda8-4f4a-b6cd-88ef35a58bc7) | ![교향곡_변경후_2층](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d5b56d6-07e9-4466-b95c-00ba43ed9db2)
 ---|---|
 
-
-
-
-## 5. 자료
-[https://www.instagram.com/p/CrKhMqjJeBI/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==    
-](https://www.bigcontest.or.kr/)
-
-![501910](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/5f87e0f4-72f7-4b85-935a-5d07ef394954)
-
-
-
 <br/>
 
- 
-- 발표 자료  
+
+## 6. 자료  
+https://www.bigcontest.or.kr/
+
+<img width="557" alt="11" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/5f87e0f4-72f7-4b85-935a-5d07ef394954">   
+<br/>
+
+- 발표 자료 및 발표 영상 
 https://drive.google.com/file/d/1E-yB6vIGeNtKE5IBu0BO_VE71vC_hzBc/view?usp=drive_link  
-https://www.youtube.com/@bigcontest/videos  
+https://www.youtube.com/@bigcontest/videos    
 
-
-<br/>
-
-- 증빙 자료     
+- 증빙 자료       
 https://www.imaeil.com/page/view/2023121413152830691
 
 ![KakaoTalk_20231230_144717289](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/1d2635c7-ea99-4450-a265-9aab54ff659b) | ![KakaoTalk_20231230_145117752](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/d28cd795-e6a1-4910-9c52-e9ecdfea63c6)
 ---|---|
 
+<img width="1000" alt="11" src="https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/8700f799-0b4c-4793-b1b5-a1b702b74079"> | ![KakaoTalk_20231230_160411786](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/e83d79c2-394d-49d2-8c88-2a631c349244)  
+---|---|
 
+<br/>
 
