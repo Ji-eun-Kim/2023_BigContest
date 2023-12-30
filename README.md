@@ -38,6 +38,13 @@
 ## 4. 과정     
 ![2023-12-30 153136](https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/ff0ef75f-c9cf-4fdc-9f0c-84ec92989bb6)  
 
+
+![2023-12-30 162830](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/e2beb2fc-6ea6-4f62-8605-cf6762b7e2f6)|![화면 캡처 2023-12-30 163046](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/ef716c9e-c069-433b-add7-37b76d80d295)
+---|---|
+
+![화면 캡처 2023-12-30 163330](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/9aeb87d3-bcb3-4f7e-8c8f-735b8bb70985)|![2023-12-30 162726](https://github.com/Ji-eun-Kim/DnA-Visualization-competition/assets/124686375/58705b43-2122-4eec-a633-5834caeb6a4e)
+---|---|
+
 <br/>
 
 
