@@ -116,7 +116,7 @@ https://www.bigcontest.or.kr/
 <img width="557" alt="11" src="https://github.com/Ji-eun-Kim/Toy_project/assets/124686375/5f87e0f4-72f7-4b85-935a-5d07ef394954">   
 <br/>
 
-- 발표 자료 및 발표 영상 
+- 발표 자료 및 발표 영상   
 https://drive.google.com/file/d/1E-yB6vIGeNtKE5IBu0BO_VE71vC_hzBc/view?usp=drive_link  
 https://www.youtube.com/@bigcontest/videos    
 
