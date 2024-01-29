@@ -1,4 +1,10 @@
-## [제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드 리그] <br/> 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립
+<h2 align="center"> 제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그 </h2>
+<h3 align="center"> 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립 </h3>
+
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=20&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=10' width='100%'/>  
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#installation)
+
 
 <br/>
 
