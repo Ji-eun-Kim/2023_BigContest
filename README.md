@@ -108,7 +108,7 @@
 - 예술의 전당 고객 데이터 탐색적 데이터 분석 및 전처리 수행
 - Clustering을 위한 유의미한 파생 변수 생성
 - FINCH Method Clustering, K-means을 활용한 군집화
-- 모델 학습 및 실험 진행 
+- LGBM, RandomForest 모델 학습 및 실험 진행
 
 <br/>
 
