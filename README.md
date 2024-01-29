@@ -1,5 +1,5 @@
 <h2 align="center"> 제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그 </h2>
-<h3 align="center"> 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립 </h3>
+<h3 align="center"> 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립 (2023.08. ~ 2023.11.) </h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
